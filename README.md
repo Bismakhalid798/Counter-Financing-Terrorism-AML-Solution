@@ -7,7 +7,7 @@ A robust, intelligent AML system designed to detect and flag potentially illicit
 ## 🚀 Features
 
 - 🔁 **Automated Web Scraping**  
-  Periodically collects data from sanction and PEP (Politically Exposed Persons) sources using APScheduler.
+  Periodically collects data from sanctions and PEP (Politically Exposed Persons) sources using APScheduler.
 
 - 🤖 **Fuzzy Matching Engine**  
   Performs fuzzy logic-based name matching to identify variations and aliases.
@@ -24,5 +24,5 @@ A robust, intelligent AML system designed to detect and flag potentially illicit
 ---
 
 - 📈 **Use Cases**
-KYC/AML compliance tools
+KYC/AML compliance tools and 
 Financial institution risk assessment
