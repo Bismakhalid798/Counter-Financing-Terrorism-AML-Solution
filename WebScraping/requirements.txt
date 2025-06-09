@@ -1,0 +1,25 @@
+# requirements.txt
+requests
+beautifulsoup4
+pandas
+numpy
+fastapi
+uvicorn[standard]
+apscheduler
+selenium
+flask==2.0.1
+Werkzeug==2.2.3
+seleniumbase
+wptools 
+python-Levenshtein
+nltk
+spacy
+pydantic
+pdfplumber 
+rapidfuzz 
+textdistance 
+phonetics 
+fuzzywuzzy 
+SPARQLWrapper
+webdriver_manager
+pymongo
